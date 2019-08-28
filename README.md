@@ -11,7 +11,7 @@ Dependencies:
 To install them on Ubuntu:
 
     sudo apt-get install python3 python3-pip
-    sudo pip install dnspython sleekxmpp
+    sudo pip3 install dnspython sleekxmpp
 
 [Arch AUR package](https://aur.archlinux.org/packages/sendxmpp-py/)
 
